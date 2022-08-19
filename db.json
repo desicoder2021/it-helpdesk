@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "fixed 002 keyboard",
+      "attention": false,
+      "tech": "John Smith",
+      "date": "2022-08-17T12:03:32.273Z",
+      "id": 1
+    },
+    {
+      "message": "changed keyboard on workstation 002",
+      "attention": false,
+      "tech": "Nick J",
+      "date": "2022-08-17T12:03:55.251Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "fixed memory card for workstation 007",
+      "attention": false,
+      "tech": "Sameer K",
+      "date": "2022-08-17T16:33:24.934Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sameer",
+      "lastName": "K"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Nick",
+      "lastName": "J"
+    }
+  ]
+}
